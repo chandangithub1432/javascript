@@ -1,0 +1,42 @@
+console.log("hello bhai");
+// if else statement example
+// let x = 50;             
+// let y = 100
+// if (x<80){
+//     console.log(true)
+// }
+// else {
+//     console.log( "kdll")
+// }
+
+
+// Here is the syntax for an "if-else ladder":
+
+// let x = 10;
+// if (x > 15) {
+//   console.log("x is greater than 15");
+// } else if (x > 10) {
+//   console.log("x is greater than 10 but less than or equal to 15");
+// } else if (x > 5) {
+//   console.log("x is greater than 5 but less than or equal to 10");
+// } else {
+//   console.log("x is less than or equal to 5");
+// }
+
+// Here is the syntax for a "switch" statement
+
+// let x = "apple";
+// switch (x) {
+//   case "apple":
+//     console.log("x is an apple");
+//     break;
+//   case "banana":
+//     console.log("x is a banana");
+//     break;
+//   case "orange":
+//     console.log("x is an orange");
+//     break;
+//   default:
+//     console.log("x is something else");
+// }
+
