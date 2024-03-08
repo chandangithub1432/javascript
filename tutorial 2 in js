@@ -1,0 +1,28 @@
+console.log("hello developer");
+// add more string
+let a = "crezy"
+let b = "food"
+let c = "hub"
+console.log((a + b + c));
+console.log(typeof a );
+
+// show window alert and prompt sms
+window.prompt("type name");
+window.prompt("number");
+window.alert("thank you");
+
+//  write a factorial in javascript program using loops
+const factorialOf = integer =>{
+    let factorial = 1;
+    for(let i = 1; i <= integer; i++ ){
+        factorial *= i;
+    }
+    return factorial;
+}
+console.log(factorialOf(5));
+console.log(factorialOf(2));
+// Output= 120
+//        = 2
+
+
+
